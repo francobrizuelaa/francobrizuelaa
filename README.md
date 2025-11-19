@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hola, soy Franco 👋
 
-<!--
-**francobrizuelaa/francobrizuelaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desarrollador Web & Entusiasta de la Ciberseguridad
 
-Here are some ideas to get you started:
+¡Bienvenido a mi portafolio! Soy un apasionado por crear soluciones web y entender cómo protegerlas. Actualmente me estoy certificando en **Google Cybersecurity** y cursando la **Licenciatura en Ciberseguridad** en la **Universidad de Palermo**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+* **Desarrollo Web:** HTML, CSS, JavaScript, React.
+* **Ciberseguridad:** Linux, SQL, Python, Wireshark, Análisis de Logs.
+
+---
+
+### 📂 Mis Proyectos Destacados
+
+#### 🌐 Desarrollo Web
+
+* **[Gimlet - Agencia de Marketing](https://www.gimlet.ar/)**
+  * *Desarrollo Frontend Institucional.* Sitio web oficial desarrollado para la agencia Gimlet durante mi rol profesional como desarrollador. Enfoque en diseño responsivo y presentación de marca.
+  * [Ver Sitio](https://www.gimlet.ar/) | [Ver Código](https://github.com/francobrizuelaa/landingpage-gimletv2)
+
+* **[Restaurante Lo de Carlitos](https://carlitos-web-mocha.vercel.app/)**
+  * *Integración de APIs & UI.* Landing page gastronómica enfocada en la experiencia de usuario. Implementación técnica de mapas interactivos para geolocalización del local.
+  * [Ver Sitio](https://carlitos-web-mocha.vercel.app/) | [Ver Código](https://github.com/francobrizuelaa/carlitos-web)
+
+* **[VROK - Portfolio Personal](https://vrok.com.ar/)**
+  * *Marca Personal.* Sitio web diseñado para centralizar mi identidad digital y presentar mis servicios de desarrollo.
+  * [Ver Sitio](https://vrok.com.ar/) | [Ver Código](https://github.com/francobrizuelaa/vrok-web)
+
+#### 🔐 Ciberseguridad & Laboratorios
+* *Próximamente: Análisis de vulnerabilidades y laboratorios de Google.*
+
+---
+
+### 📫 Contáctame
+* [LinkedIn](https://www.linkedin.com/in/francobrizuela)
+* [Email](mailto:brizuela.jfranco@gmail.com)
