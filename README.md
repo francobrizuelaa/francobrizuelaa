@@ -1,6 +1,6 @@
 # Hola, soy Franco 👋
 
-### 💻 Desarrollador Web & Entusiasta de la Ciberseguridad
+### Estudiante de Ciberseguridad | Python & Automatización
 
 ¡Bienvenido a mi portafolio! Soy un apasionado por crear soluciones web y entender cómo protegerlas. Actualmente me estoy certificando en **Google Cybersecurity** y cursando la **Licenciatura en Ciberseguridad** en la **Universidad de Palermo**.
 
