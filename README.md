@@ -30,9 +30,10 @@
   * [Ver Sitio](https://vrok.com.ar/) | [Ver Código](https://github.com/francobrizuelaa/vrok-web)
 
 #### 🔐 Ciberseguridad & Laboratorios
-* *Próximamente: Análisis de vulnerabilidades y laboratorios de Google.*
+* **[Integridad de Datos & Automatización (FIM)](https://github.com/francobrizuelaa/lab-data-integrity-hashing)**
+  * *Python Scripting & Criptografía.* Desarrollo de una herramienta automatizada (File Integrity Monitor) para detectar alteraciones en archivos críticos mediante Hashing SHA-256 en tiempo real.
+  * [Ver Código y Documentación](https://github.com/francobrizuelaa/lab-data-integrity-hashing)
 
----
 
 ### 📫 Contáctame
 * [LinkedIn](https://www.linkedin.com/in/francobrizuela)
