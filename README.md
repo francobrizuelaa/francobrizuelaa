@@ -34,6 +34,10 @@
   * *Python Scripting & Criptografía.* Desarrollo de una herramienta automatizada (File Integrity Monitor) para detectar alteraciones en archivos críticos mediante Hashing SHA-256 en tiempo real.
   * [Ver Código y Documentación](https://github.com/francobrizuelaa/lab-data-integrity-hashing)
 
+* **[Auditoría de Permisos en Sistemas Linux](https://github.com/francobrizuelaa/file-permissions-linux-.git)**
+  * *Gestión de Accesos & Seguridad.* Documentación técnica de una auditoría de seguridad sobre un sistema de archivos Linux. Aplicación del principio de menor privilegio mediante comandos `chmod` para mitigar riesgos de accesos no autorizados en archivos ocultos y directorios de investigación.
+  * [Ver Reporte](https://github.com/francobrizuelaa/file-permissions-linux-.git)
+
 
 ### 📫 Contáctame
 * [LinkedIn](https://www.linkedin.com/in/francobrizuela)
