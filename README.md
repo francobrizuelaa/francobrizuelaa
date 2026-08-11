@@ -15,6 +15,16 @@
 
 ### 📂 Mis Proyectos Destacados
 
+#### 🔐 Ciberseguridad & Laboratorios
+* **[Integridad de Datos & Automatización (FIM)](https://github.com/francobrizuelaa/lab-data-integrity-hashing)**
+  * *Python Scripting & Criptografía.* Desarrollo de una herramienta automatizada (File Integrity Monitor) para detectar alteraciones en archivos críticos mediante Hashing SHA-256 en tiempo real.
+  * [Ver Código y Documentación](https://github.com/francobrizuelaa/lab-data-integrity-hashing)
+
+* **[Auditoría de Permisos en Sistemas Linux](https://github.com/francobrizuelaa/file-permissions-linux-.git)**
+  * *Gestión de Accesos & Seguridad.* Documentación técnica de una auditoría de seguridad sobre un sistema de archivos Linux. Aplicación del principio de menor privilegio mediante comandos `chmod` para mitigar riesgos de accesos no autorizados en archivos ocultos y directorios de investigación.
+  * [Ver Reporte](https://github.com/francobrizuelaa/file-permissions-linux-.git)
+ 
+  
 #### 🌐 Desarrollo Web
 
 * **[Gimlet - Agencia de Marketing](https://www.gimlet.ar/)**
@@ -28,16 +38,6 @@
 * **[VROK - Portfolio Personal](https://vrok.com.ar/)**
   * *Marca Personal.* Sitio web diseñado para centralizar mi identidad digital y presentar mis servicios de desarrollo.
   * [Ver Sitio](https://vrok.com.ar/) | [Ver Código](https://github.com/francobrizuelaa/vrok-web)
-
-#### 🔐 Ciberseguridad & Laboratorios
-* **[Integridad de Datos & Automatización (FIM)](https://github.com/francobrizuelaa/lab-data-integrity-hashing)**
-  * *Python Scripting & Criptografía.* Desarrollo de una herramienta automatizada (File Integrity Monitor) para detectar alteraciones en archivos críticos mediante Hashing SHA-256 en tiempo real.
-  * [Ver Código y Documentación](https://github.com/francobrizuelaa/lab-data-integrity-hashing)
-
-* **[Auditoría de Permisos en Sistemas Linux](https://github.com/francobrizuelaa/file-permissions-linux-.git)**
-  * *Gestión de Accesos & Seguridad.* Documentación técnica de una auditoría de seguridad sobre un sistema de archivos Linux. Aplicación del principio de menor privilegio mediante comandos `chmod` para mitigar riesgos de accesos no autorizados en archivos ocultos y directorios de investigación.
-  * [Ver Reporte](https://github.com/francobrizuelaa/file-permissions-linux-.git)
-
 
 ### 📫 Contáctame
 * [LinkedIn](https://www.linkedin.com/in/francobrizuela)
